@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMaze.Abstractions", "CodeMaze.Abstractions\CodeMaze.Abstractions.csproj", "{892609CC-64A7-4ABE-8FEA-A4F6795B21DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892609CC-64A7-4ABE-8FEA-A4F6795B21DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892609CC-64A7-4ABE-8FEA-A4F6795B21DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892609CC-64A7-4ABE-8FEA-A4F6795B21DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892609CC-64A7-4ABE-8FEA-A4F6795B21DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3321DD6-B4C9-44CD-9639-29B095B1D63E}
+	EndGlobalSection
+EndGlobal
